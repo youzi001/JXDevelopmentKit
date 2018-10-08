@@ -20,6 +20,7 @@
 		C27367A62105BBCD00C6B15B /* XXColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = C27367A52105BBCD00C6B15B /* XXColor.swift */; };
 		C27367A82105C0F100C6B15B /* NextLevelViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C27367A72105C0F100C6B15B /* NextLevelViewController.swift */; };
 		C27367AA2105C5DC00C6B15B /* SwitchLabelViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C27367A92105C5DC00C6B15B /* SwitchLabelViewController.swift */; };
+		C2990F80216AEB6D0080E649 /* CreatQRCodeController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2990F7F216AEB6D0080E649 /* CreatQRCodeController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		C27367A52105BBCD00C6B15B /* XXColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = XXColor.swift; sourceTree = "<group>"; };
 		C27367A72105C0F100C6B15B /* NextLevelViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextLevelViewController.swift; sourceTree = "<group>"; };
 		C27367A92105C5DC00C6B15B /* SwitchLabelViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwitchLabelViewController.swift; sourceTree = "<group>"; };
+		C2990F7F216AEB6D0080E649 /* CreatQRCodeController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreatQRCodeController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -153,6 +155,7 @@
 			isa = PBXGroup;
 			children = (
 				C27367A92105C5DC00C6B15B /* SwitchLabelViewController.swift */,
+				C2990F7F216AEB6D0080E649 /* CreatQRCodeController.swift */,
 			);
 			path = DemoController;
 			sourceTree = "<group>";
@@ -255,6 +258,7 @@
 				C27367A62105BBCD00C6B15B /* XXColor.swift in Sources */,
 				C27367A02105B75500C6B15B /* XXTitleView.swift in Sources */,
 				C273679F2105B75500C6B15B /* XXContentView.swift in Sources */,
+				C2990F80216AEB6D0080E649 /* CreatQRCodeController.swift in Sources */,
 				C273677E2105B0AF00C6B15B /* AppDelegate.swift in Sources */,
 				C27367AA2105C5DC00C6B15B /* SwitchLabelViewController.swift in Sources */,
 				C27367A82105C0F100C6B15B /* NextLevelViewController.swift in Sources */,
